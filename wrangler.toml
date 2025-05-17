@@ -1,0 +1,7 @@
+name = "business-query-worker"
+     compatibility_date = "2025-05-16"
+     main = "src/index.js"
+
+     [[kv_namespaces]]
+     binding = "BUSINESS_KV"
+     id = "52f4ac7361fa4c5e8150a69e2cc33f68"
